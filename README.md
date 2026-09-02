@@ -15,3 +15,9 @@ My goal with this project was to create a light based tripwire alarm system to e
 - Laser/Light Source
 
 Should you choose to make this project, please excuse the very unpolished hand drawn circuit diagram. 
+
+
+
+Update: 02/09/2026: 
+
+Hand drawn circuit diagram has been replaced with a more polished, computer drawn diagram.
